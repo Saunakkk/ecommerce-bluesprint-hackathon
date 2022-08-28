@@ -10,7 +10,7 @@ Framework: Bootstrap
 Editor: Visual Studio Code
 
 
-## Web link: https://polite-kataifi-aeaf85.netlify.app/#
+## Web link: https://3ble-shop.netlify.app/
 
 ## Video Demo: https://drive.google.com/file/d/1U2xDfWhTajNcUAaV9RJgIEIYA5Cqk16M/view?usp=sharing
 
