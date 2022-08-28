@@ -12,7 +12,7 @@ Editor: Visual Studio Code
 
 ## Web link: https://3ble-shop.netlify.app/
 
-## Video Demo: https://drive.google.com/file/d/1U2xDfWhTajNcUAaV9RJgIEIYA5Cqk16M/view?usp=sharing
+## Video Demo: https://drive.google.com/file/d/19yYd8tL5pcM4spwZNVxJxJL5yxKaLVrN/view?usp=sharing
 
 ## Screenshots:
 
