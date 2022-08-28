@@ -21,6 +21,12 @@ Editor: Visual Studio Code
 ![s8](https://user-images.githubusercontent.com/108210784/187046173-9bd80793-059b-4da9-b458-751e3ebdc48b.jpg)
 ![s9](https://user-images.githubusercontent.com/108210784/187046175-51c73ecd-8f49-43ed-ba33-70640e08aee2.jpg)
 ![s10](https://user-images.githubusercontent.com/108210784/187046176-b84e0a7e-00e5-4e52-91c6-5ec299bcd29c.jpg)
+![s11](https://user-images.githubusercontent.com/108210784/187055548-dda32cca-a383-4970-bb98-701c0e459b24.jpg)
+![s12](https://user-images.githubusercontent.com/108210784/187055553-15dc1770-934d-4306-acfa-5ba6b2ecb54a.jpg)
+![s13](https://user-images.githubusercontent.com/108210784/187055555-b51273f6-7662-4a94-987f-2d5763111df6.jpg)
+![s14](https://user-images.githubusercontent.com/108210784/187055562-b8577a04-291f-435e-8633-76e739805611.jpg)
+![s15](https://user-images.githubusercontent.com/108210784/187055567-3e09cf45-3610-447b-b134-bf6a81f4e549.jpg)
+
 ![s6](https://user-images.githubusercontent.com/108210784/187046181-7a89b384-8e70-41a7-b0d9-f1e6a00f52f1.jpg)
 ![s5](https://user-images.githubusercontent.com/108210784/187046185-77006317-b9ca-4fb2-b9f3-7dc80664c667.jpg)
 ![s3a](https://user-images.githubusercontent.com/108210784/187046186-6e3d40c3-dd08-4473-9c30-c094f21ae199.jpg)
